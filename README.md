@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tassom" alt="tassom" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tassom" target="blank"><img src="https://img.shields.io/twitter/follow/tassom?logo=twitter&style=for-the-badge" alt="tassom" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/tassom](https://github.com/tassom)
 
@@ -13,11 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tassom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tassom" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tassomassouras/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tasso.massouras" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Cloud Platform</h3>
+<!--<h3 align="left">Cloud Platform</h3>
  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/> </a>  
  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/> </a> 
 
@@ -47,7 +45,7 @@
 <h3 align="left">Framwork</h3>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="40" height="40"/> </a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring boot" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/en/2.1.x" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+<a href="https://flask.palletsprojects.com/en/2.1.x" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>-->
 
 <br>
 
